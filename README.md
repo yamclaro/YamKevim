@@ -33,8 +33,8 @@ Atuando com desenvolvimento Back-End.
 **ORM:** Entity Framework
 
 
- ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=yamkevim&show_icons=true&layout=compact&langs_count=7&theme=dark)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamkevim&layout=compact&langs_count=7&theme=dark"/>
+  <img width = "400em" height="195em" src="https://github-readme-stats.vercel.app/api?username=yamkevim&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
+  <img width = "400em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamkevim&layout=compact&langs_count=7&theme=dark"/>
  
 </div>
 
