@@ -5,7 +5,7 @@
 
 
 
- e fique para conhecer mais sobre quem sou!
+ Fique e conheca mais sobre quem sou!
 
 ##  Desenvolvedor Jr
 Atuando com desenvolvimento Back-End. 
